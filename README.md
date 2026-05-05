@@ -17,7 +17,7 @@
 ## 🇬🇧 English
 
 ### About the Project
-This repository contains the final PDF of my final Project Work for the Master in Cybersecurity written in LaTeX. 
+This repository contains the final PDF of my final Project Work for the Master in Cybersecurity written in LaTeX. AVAILABLE IN ITALIAN ONLY.
 
 The thesis explores the isolation mechanisms and intrinsic vulnerabilities of two of the most widely used container engines: **Docker** and **Podman**. Through a methodical study of historical **CVEs** (Common Vulnerabilities and Exposures), the research demonstrates how architectural design choices do not just dictate operational features, but directly shape the attack surface.
 
