@@ -16,12 +16,12 @@
 <a name="english"></a>
 ## 🇬🇧 English
 
-### 📌 About the Project
+### About the Project
 This repository contains the LaTeX source code and the final PDF of my final Project Work for the Master in Cybersecurity. 
 
 The thesis explores the isolation mechanisms and intrinsic vulnerabilities of two of the most widely used container engines: **Docker** and **Podman**. Through a methodical study of historical **CVEs** (Common Vulnerabilities and Exposures), the research demonstrates how architectural design choices do not just dictate operational features, but directly shape the attack surface.
 
-### 🔬 Core Topics
+### Core Topics
 *   **Container Security:** Kernel primitives (Namespaces, cgroups, Capabilities, Seccomp).
 *   **Docker Architecture:** Analysis of the monolithic *client-server* and *rootful* model, with a focus on `dockerd` vulnerabilities (e.g., API exposure, `runc` Container Escapes).
 *   **Podman Architecture:** Exploring the *daemonless* and *rootless* paradigm via User Namespaces, and the complexity-induced vulnerabilities (e.g., Symlink Traversal, Race Conditions).
