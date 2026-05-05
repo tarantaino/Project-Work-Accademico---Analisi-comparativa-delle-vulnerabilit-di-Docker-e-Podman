@@ -17,7 +17,7 @@
 ## 🇬🇧 English
 
 ### About the Project
-This repository contains the LaTeX source code and the final PDF of my final Project Work for the Master in Cybersecurity. 
+This repository contains the final PDF of my final Project Work for the Master in Cybersecurity written in LaTeX. 
 
 The thesis explores the isolation mechanisms and intrinsic vulnerabilities of two of the most widely used container engines: **Docker** and **Podman**. Through a methodical study of historical **CVEs** (Common Vulnerabilities and Exposures), the research demonstrates how architectural design choices do not just dictate operational features, but directly shape the attack surface.
 
@@ -35,7 +35,7 @@ The thesis explores the isolation mechanisms and intrinsic vulnerabilities of tw
 ## 🇮🇹 Italiano
 
 ### Descrizione del Progetto
-Questa repository contiene il codice sorgente LaTeX e il PDF finale del mio Project Work redatto per il conseguimento del Master di I Livello in Cybersecurity.
+Questa repository contiene il PDF finale del mio Project Work redatto in LaTeX per il conseguimento del Master di I Livello in Cybersecurity.
 
 La tesi esplora in profondità i meccanismi di isolamento e le vulnerabilità intrinseche di **Docker** e **Podman**. Attraverso lo studio metodico e comparato delle storiche **CVE** (Common Vulnerabilities and Exposures), la ricerca dimostra come il design architetturale di un software non determini solamente le sue funzionalità operative, ma plasmi e indirizzi direttamente le strategie offensive degli attaccanti.
 
